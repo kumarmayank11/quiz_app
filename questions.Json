@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Paris", "Rome", "Madrid"],
+    "answer": "Paris"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "answer": "Mars"
+  },
+  {
+    "question": "What is 9 * 9?",
+    "options": ["81", "72", "99", "90"],
+    "answer": "81"
+  },
+  {
+    "question": "What language is used for web apps?",
+    "options": ["Python", "HTML", "C++", "Java"],
+    "answer": "HTML"
+  },
+  {
+    "question": "Who invented Python?",
+    "options": ["Guido van Rossum", "Linus Torvalds", "Bill Gates", "Dennis Ritchie"],
+    "answer": "Guido van Rossum"
+  }
+]
